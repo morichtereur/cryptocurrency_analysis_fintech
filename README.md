@@ -1,3 +1,8 @@
+Analysis: Crypto & Stocks
+- Volatility (done)
+- Social Media & Sentiment (issues with API)
+- Correlation & Risk (done)
+
 Project Questions to Answer
 
 The following key questions are addressed through this analyis:
