@@ -23,9 +23,14 @@ Random Forest Classifier: Using a Random Forest classifier, we aim to classify c
 Linear Regression: We employ Linear Regression to model the relationship between various factors and cryptocurrency prices.
 Key Questions Addressed:
 
-Average Age of Top 10 Coins: We determine the average age of the top 10 cryptocurrencies by market capitalization.
-Volatility Analysis: We identify the most volatile and stable cryptocurrencies based on historical price movements.
-Predictive Modeling: Can machine learning accurately predict the closing price of selected cryptocurrencies?
-Fluctuation Rate: What is the rate of price fluctuations in cryptocurrencies over specific time intervals?
-Comparison with Broader Market: How do cryptocurrencies compare to traditional financial markets in terms of performance and volatility?
+- Average Age of Top 10 Coins: We determine the average age of the top 10 cryptocurrencies by market capitalization.
+
+- Volatility Analysis: We identify the most volatile and stable cryptocurrencies based on historical price movements.
+
+- Predictive Modeling: Can machine learning accurately predict the closing price of selected cryptocurrencies?
+
+- Fluctuation Rate: What is the rate of price fluctuations in cryptocurrencies over specific time intervals?
+
+- Comparison with Broader Market: How do cryptocurrencies compare to traditional financial markets in terms of performance and volatility?
+
 By addressing these questions, we aim to provide valuable insights into the dynamics of cryptocurrency markets and their interactions with traditional financial instruments.
