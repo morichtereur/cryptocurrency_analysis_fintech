@@ -14,7 +14,7 @@ In this project, we conduct an in-depth analysis of cryptocurrency and stock mar
   
 **Analysis Topics:**
 - Volatility: We analyze the volatility of different cryptocurrencies to identify which ones exhibit the highest and lowest volatility.
-Social Media & Sentiment: While there are ongoing challenges with accessing social media data via APIs, we aim to incorporate sentiment analysis from social media platforms to understand its impact on cryptocurrency trends.
+- Social Media & Sentiment: While there are ongoing challenges with accessing social media data via APIs, we aim to incorporate sentiment analysis from social media platforms to understand its impact on cryptocurrency trends.
 - Correlation & Risk: We examine correlations between different cryptocurrencies and traditional financial assets to assess risk levels and potential diversification benefits.
   
 **Machine Learning Models:**
