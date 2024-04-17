@@ -1,8 +1,17 @@
-**Project Overview: Cryptocurrency Analysis** 
+**Project Overview: Cryptocurrency Analysis**
 
-Welcome to our Data Science Project for the "Seminar Topics in FinTech" course at Erasmus University Rotterdam. This project explores the vibrant and evolving domain of cryptocurrencies. By analyzing extensive historical data on major digital currencies and comparing these with traditional financial indices like the S&P 500, we aim to uncover deep insights into market trends and asset behaviors.
-Utilizing sophisticated machine learning models, our goal is to predict future movements in the cryptocurrency market, providing valuable perspectives to both academic and financial industry stakeholders.
-For queries or further discussion, feel free to reach out via our project email: 597963mr@eur.nl.
+Introduction
+- Welcome to our Data Science Project for the "Seminar Topics in FinTech" course at Erasmus University Rotterdam. This project delves into the vibrant and constantly evolving world of cryptocurrencies. We are committed to analyzing extensive historical data on major digital currencies and comparing these with traditional financial indices like the S&P 500. Our aim is to provide deep insights into market trends and asset behaviors, enhancing our understanding of this dynamic financial landscape.
+
+Crypto Price Prediction Using Wikipedia Sentiment
+- Our innovative approach includes forecasting future Bitcoin prices by integrating historical price data with sentiment analysis derived from Wikipedia edit histories. This method focuses on seven key cryptocurrencies, aiming to gauge public sentiment's impact on market movements.
+
+Machine Learning Application
+- We employ sophisticated machine learning models to predict future movements in the cryptocurrency market. These tools are designed to offer valuable insights to stakeholders in both the academic and financial sectors, guiding decisions and strategies in cryptocurrency investments.
+
+Contact and Collaboration
+- We encourage collaboration and are open to discussion regarding our methodologies or results. For any inquiries or further discussion, please reach out via our project email: 597963mr@eur.nl.
+
 
 **Data Collection**
 
