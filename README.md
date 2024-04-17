@@ -1,9 +1,10 @@
 **Project Overview: Cryptocurrency Analysis** 
 
-**Introduction**
-This project delves into the dynamic world of cryptocurrency by analyzing a blend of historical data on major cryptocurrencies and comparing it with traditional financial markets like the S&P 500. We use sophisticated machine learning models to predict market trends and provide deep insights into the behaviors of digital assets.
+Welcome to our Data Science Project for the "Seminar Topics in FinTech" course at Erasmus University Rotterdam. This project explores the vibrant and evolving domain of cryptocurrencies. By analyzing extensive historical data on major digital currencies and comparing these with traditional financial indices like the S&P 500, we aim to uncover deep insights into market trends and asset behaviors.
+Utilizing sophisticated machine learning models, our goal is to predict future movements in the cryptocurrency market, providing valuable perspectives to both academic and financial industry stakeholders.
+For queries or further discussion, feel free to reach out via our project email: 597963mr@eur.nl.
 
-***Data Collection**
+**Data Collection**
 
 The datasets employed in this project include:
 
