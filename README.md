@@ -1,8 +1,42 @@
-**Project Overview: Crypto & Stocks**
+**Project Overview: Cryptocurrency Analysis** 
 
-In this project, we conduct an in-depth analysis of cryptocurrency and stock market data. We explore various aspects including volatility, social media sentiment (pending due to API issues), correlation, and risk. Additionally, we apply machine learning techniques to predict cryptocurrency prices.
+Welcome to our Data Science Project for the "Seminar Topics in FinTech" course at Erasmus University Rotterdam. This project explores the vibrant and evolving domain of cryptocurrencies. By analyzing extensive historical data on major digital currencies and comparing these with traditional financial indices like the S&P 500, we aim to uncover deep insights into market trends and asset behaviors.
+Utilizing sophisticated machine learning models, our goal is to predict future movements in the cryptocurrency market, providing valuable perspectives to both academic and financial industry stakeholders.
+For queries or further discussion, feel free to reach out via our project email: 597963mr@eur.nl.
 
-**Selected Cryptocurrencies:**
+**Data Collection**
+
+The datasets employed in this project include:
+
+- Crypto Historical Data: Performance metrics for various cryptocurrencies.
+- S&P 500 Historical Data: Historical data points of the S&P 500 index to compare with cryptocurrency performance.
+- CSV Files: Detailed files containing fields such as Coin Name, Symbol, Date, High, Low, Open, Close, Volume, and Market Cap.
+
+**Analysis Process**
+
+1. Exploratory Data Analysis
+   
+Our exploratory process covers several key analyses:
+
+- Price Analysis: Examination of historical price changes.
+- Volatility Study: Measurement of price fluctuation levels across different cryptocurrencies.
+- Outlier Detection: Identification of anomalies within the data.
+- Correlation and Risk Assessment: Evaluation of interdependencies between cryptocurrencies and other financial assets.
+  
+2. Machine Learning Application
+   
+We apply various machine learning techniques to predict future price movements of cryptocurrencies:
+
+- Random Forest Classifier (Baseline-Model): To classify price direction based on historical trends.
+- Linear Regression: To understand the impact of various predictors on cryptocurrency prices.
+- LSTM Model for Bitcoin: A specialized model for predicting Bitcoin prices using time series data.
+
+3. Conclusion
+We compile our findings to discuss the effectiveness of different models and methodologies, providing insights into the potential future behavior of the cryptocurrency market.
+
+**Selected Cryptocurrencies**
+
+This project focuses on the following major cryptocurrencies:
 
 - Binance Coin (BNB)
 - Bitcoin (BTC)
@@ -12,21 +46,21 @@ In this project, we conduct an in-depth analysis of cryptocurrency and stock mar
 - Ripple (XRP)
 - Solana (SOL)
   
-**Analysis Topics:**
-- Volatility: We analyze the volatility of different cryptocurrencies to identify which ones exhibit the highest and lowest volatility.
-- Social Media & Sentiment: While there are ongoing challenges with accessing social media data via APIs, we aim to incorporate sentiment analysis from social media platforms to understand its impact on cryptocurrency trends.
-- Correlation & Risk: We examine correlations between different cryptocurrencies and traditional financial assets to assess risk levels and potential diversification benefits.
-  
-**Machine Learning Models:**
-- LSTM Model for Bitcoin: We implement a Long Short-Term Memory (LSTM) model to predict Bitcoin prices based on historical data.
-- Random Forest Classifier: Using a Random Forest classifier, we aim to classify cryptocurrency price movements or trends.
-- Linear Regression: We employ Linear Regression to model the relationship between various factors and cryptocurrency prices.
-  
-**Key Questions Addressed:**
-- Average Age of Top 10 Coins: We determine the average age of the top 10 cryptocurrencies by market capitalization.
-- Volatility Analysis: We identify the most volatile and stable cryptocurrencies based on historical price movements.
-- Predictive Modeling: Can machine learning accurately predict the closing price of selected cryptocurrencies?
-- Fluctuation Rate: What is the rate of price fluctuations in cryptocurrencies over specific time intervals?
-- Comparison with Broader Market: How do cryptocurrencies compare to traditional financial markets in terms of performance and volatility?
+**Special Topics of Analysis**
 
-By addressing these questions, we aim to provide valuable insights into the dynamics of cryptocurrency markets and their interactions with traditional financial instruments.
+- Volatility: Comparative analysis of the volatility levels among chosen cryptocurrencies.
+Social Media & Sentiment: Exploratory work on incorporating sentiment analysis from social media to assess its impact on market trends, despite challenges in accessing data.
+Correlation & Risk: An examination of how cryptocurrencies correlate with traditional financial assets and the implications for risk management and investment diversification.
+Machine Learning Models Used
+
+- Random Forest: Classification of trend directions.
+Linear Regression: Predictive analysis of price based on multiple factors.
+LSTM: Advanced predictive model focusing on Bitcoin price trends.
+
+**Key Questions Addressed**
+- What key trends are evident in the historical price movements of the selected cryptocurrencies?
+- How effectively can our machine learning models predict cryptocurrency prices?
+- What are the relative volatility levels of these cryptocurrencies compared to each other and traditional financial assets?
+- How can external data, like sentiment analysis from social media, enhance our forecasting accuracy?
+- What are the correlation patterns between these cryptocurrencies and traditional asset classes?
+- By exploring these questions, our project aims to offer a comprehensive view of the cryptocurrency market’s interactions with traditional financial systems and to highlight potential investment opportunities and risks.
